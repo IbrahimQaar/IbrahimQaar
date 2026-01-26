@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a software engineer with experience in Java, Spring Boot, HTML, CSS, JavaScript, and AWS. I enjoy building full-stack applications that are clean, reliable, and user-focused. My work reflects strong problem-solving skills, attention to detail, and a commitment to writing clear, maintainable code. I am always learning, improving my technical skills, and building real-world projects as I grow in my career.
+I am a software engineer with experience in Python, Java, Spring Boot, React, HTML, CSS, JavaScript, and AWS. I enjoy building full-stack applications that are clean, reliable, and user-focused. My work reflects strong problem-solving skills, attention to detail, and a commitment to writing clear, maintainable code. I am always learning, improving my technical skills, and building real-world projects as I grow in my career.
 
 
 
