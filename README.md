@@ -4,7 +4,7 @@ I am a software engineer with experience in Python, Java, Spring Boot, React, HT
 
 
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
