@@ -4,7 +4,7 @@ I’m a Full-Stack Software Engineer focused on building secure, scalable web ap
  
 I’ve developed multiple end-to-end applications, including a healthcare management platform and a location-based scheduling system, where I designed RESTful APIs, implemented JWT authentication, and enforced role-based access control using Spring Security. My work focuses on building reliable backend systems and seamless frontend experiences that solve real-world problems.
  
-## My Strengths Include:
+## My Strengths
 
 - Backend Development: Java and Spring Boot  
 - REST API Design and Integration  
