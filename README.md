@@ -1,7 +1,21 @@
 # Hi there 👋
 
-I am a software engineer with experience in Python, Java, Spring Boot, React, HTML, CSS, JavaScript, and AWS. I enjoy building full-stack applications that are clean, reliable, and user-focused. My work reflects strong problem-solving skills, attention to detail, and a commitment to writing clear, maintainable code. I am always learning, improving my technical skills, and building real-world projects as I grow in my career.
-
+I’m a Full-Stack Software Engineer focused on building secure, scalable web applications using Java, Spring Boot, React, and AWS.
+ 
+I’ve developed multiple end-to-end applications, including a healthcare management platform and a location-based scheduling system, where I designed RESTful APIs, implemented JWT authentication, and enforced role-based access control using Spring Security. My work focuses on building reliable backend systems and seamless frontend experiences that solve real-world problems.
+ 
+My strengths include:
+ • Backend development with Java & Spring Boot
+ • REST API design and integration
+ • Authentication & security (JWT, BCrypt, RBAC)
+ • Frontend development with React
+ • Database design with PostgreSQL & MySQL
+ •  Cloud services with AWS (S3, IAM, EC2)  
+ • Building and deploying full-stack applications
+ 
+I enjoy turning ideas into production-ready systems through clean, efficient code and strong system design. I’m continuously improving my skills in cloud technologies and scalable architecture.
+ 
+Currently seeking opportunities as a Full-Stack Software Engineer where I can contribute to building impactful, high-performance applications.
 
 
 ## Tech Stack
