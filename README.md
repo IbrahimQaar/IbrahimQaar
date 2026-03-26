@@ -14,9 +14,7 @@ I’ve developed multiple end-to-end applications, including a healthcare manage
 - Cloud Services: AWS (S3, IAM, EC2)  
 - Full-Stack Development: Building and deploying end-to-end applications 
  
-I enjoy turning ideas into production-ready systems through clean, efficient code and strong system design. I’m continuously improving my skills in cloud technologies and scalable architecture.
- 
-Currently seeking opportunities as a Full-Stack Software Engineer where I can contribute to building impactful, high-performance applications.
+I enjoy turning ideas into production-ready systems through clean, efficient code and strong system design. I’m continuously improving my skills in cloud technologies and scalable architecture. Currently seeking opportunities as a Full-Stack Software Engineer where I can contribute to building impactful, high-performance applications.
 
 
 ## Tech Stack
