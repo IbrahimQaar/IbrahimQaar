@@ -1,9 +1,11 @@
 # Hi there 👋
 
 I’m a Full-Stack Software Engineer focused on building secure, scalable web applications using Java, Spring Boot, React, and AWS.
- 
-I’ve developed multiple end-to-end applications, including a healthcare management platform and a location-based scheduling system, where I designed RESTful APIs, implemented JWT authentication, and enforced role-based access control using Spring Security. My work focuses on building reliable backend systems and seamless frontend experiences that solve real-world problems.
- 
+
+I’ve developed multiple end-to-end applications, including a healthcare management platform and a location-based scheduling system for PlayFetch, a pet service platform for managing dog and pet care appointments.
+
+I designed RESTful APIs, implemented JWT authentication, and enforced role-based access control (RBAC) using Spring Security. My work focuses on building reliable backend systems and seamless frontend experiences that solve real-world problems.
+
 ## My Strengths
 
 - Backend Development: Java and Spring Boot  
@@ -12,9 +14,11 @@ I’ve developed multiple end-to-end applications, including a healthcare manage
 - Frontend Development: React  
 - Database Design: PostgreSQL and MySQL  
 - Cloud Services: AWS (S3, IAM, EC2)  
-- Full-Stack Development: Building and deploying end-to-end applications 
- 
-I enjoy turning ideas into production-ready systems through clean, efficient code and strong system design. I’m continuously improving my skills in cloud technologies and scalable architecture. Currently seeking opportunities as a Full-Stack Software Engineer where I can contribute to building impactful, high-performance applications.
+- Full-Stack Development: End-to-end application design and deployment  
+
+I enjoy turning ideas into production-ready systems through clean, efficient code and strong system design. I’m continuously improving my skills in cloud technologies and scalable architecture.
+
+Currently seeking opportunities as a Full-Stack Software Engineer where I can contribute to building high-performance, impactful applications.
 
 
 ## Tech Stack
